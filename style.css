@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-color: gray;
+    height: 100vh;
+}
+
+#QR{
+    width: 17rem;
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 9rem !important;
+}
+
+
+.image1 img{
+    max-width: 15rem;  
+}
